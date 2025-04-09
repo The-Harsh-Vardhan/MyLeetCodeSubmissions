@@ -1,26 +1,25 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums, int k) {
-        set<int> os(nums.begin(), nums.end());
-        int count = 0;
         int equal = 0;
-        bool found = false;
-        for (int num : os) {
-            if (num > k) {
-                found = true;
-                count++;
-            }
-            else if ( num < k ) {
-                return -1;
-            }
-        }
+        set<int> os;
         for( int i = 0 ; i < nums.size() ; i++ ) {
+            os.insert(nums[i]);
             if( nums[i] == k ) {
                 equal++;
             }
         }
-        cout << "Equal = " << equal << endl;
-        cout << "Size of Nums = " << nums.size() << endl;
+        int count = 0;
+        bool found = false;
+        for (int num : os) {
+            if ( num < k ) {
+                return -1;
+            }
+            else if (num > k) {
+                found = true;
+                count++;
+            }
+        }
         if( equal == nums.size() ) {
             return 0;
         }
