@@ -10,10 +10,7 @@ public:
                 }
                 else {
                     for( int k = j + 1 ; k < n ; k++ ) {
-                        int A = abs(arr[i] - arr[j]);
-                        int B = abs(arr[j] - arr[k]);
-                        int C = abs(arr[i] - arr[k]);
-                        if( A <= a && B <= b && C <= c ) {
+                        if( abs(arr[i] - arr[j]) <= a && abs(arr[j] - arr[k]) <= b && abs(arr[i] - arr[k]) <= c ) {
                             count++;
                         }
                 }
