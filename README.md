@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1500-count-largest-group](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1500-count-largest-group) |
+| [2915-count-of-interesting-subarrays](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2915-count-of-interesting-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2915-count-of-interesting-subarrays](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2915-count-of-interesting-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [2915-count-of-interesting-subarrays](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2915-count-of-interesting-subarrays) |
 <!---LeetCode Topics End-->
