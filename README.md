@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0368-largest-divisible-subset) |
 | [1656-count-good-triplets](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2249-count-the-hidden-sequences](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2249-count-the-hidden-sequences](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2249-count-the-hidden-sequences) |
 | [2915-count-of-interesting-subarrays](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2915-count-of-interesting-subarrays) |
 ## Queue
 |  |
