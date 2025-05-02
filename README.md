@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0368-largest-divisible-subset) |
+| [0868-push-dominoes](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0868-push-dominoes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Sorting
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0038-count-and-say) |
+| [0868-push-dominoes](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0868-push-dominoes) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Recursion
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Number Theory
 |  |
