@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
