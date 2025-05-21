@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0073-set-matrix-zeroes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1500-count-largest-group) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0073-set-matrix-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0368-largest-divisible-subset) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1293-three-consecutive-odds) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0073-set-matrix-zeroes) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
