@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1500-count-largest-group) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2915-count-of-interesting-subarrays](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2915-count-of-interesting-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3548-find-the-count-of-good-integers) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0368-largest-divisible-subset) |
 | [0868-push-dominoes](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0868-push-dominoes) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Simulation
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -231,4 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
