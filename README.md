@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2050-count-good-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2998-count-symmetric-integers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3548-find-the-count-of-good-integers) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3201-distribute-candies-among-children-ii](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2998-count-symmetric-integers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3548-find-the-count-of-good-integers) |
 ## Dynamic Programming
 |  |
