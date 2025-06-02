@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0073-set-matrix-zeroes) |
+| [0135-candy](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0368-largest-divisible-subset) |
 | [0945-snakes-and-ladders](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0945-snakes-and-ladders) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0135-candy) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
