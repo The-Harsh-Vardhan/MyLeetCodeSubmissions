@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0217-contains-duplicate) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1500-count-largest-group) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0135-candy) |
+| [0217-contains-duplicate](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0368-largest-divisible-subset) |
 | [0945-snakes-and-ladders](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0945-snakes-and-ladders) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0368-largest-divisible-subset) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2699-count-the-number-of-fair-pairs) |
