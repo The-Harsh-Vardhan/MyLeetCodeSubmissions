@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0217-contains-duplicate) |
+| [0424-longest-repeating-character-replacement](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0424-longest-repeating-character-replacement) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1500-count-largest-group) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0038-count-and-say) |
+| [0424-longest-repeating-character-replacement](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0868-push-dominoes](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0424-longest-repeating-character-replacement) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Monotonic Queue
