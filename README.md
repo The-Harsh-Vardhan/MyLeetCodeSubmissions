@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0424-longest-repeating-character-replacement) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0368-largest-divisible-subset) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1500-count-largest-group) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0202-happy-number) |
 | [0868-push-dominoes](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
