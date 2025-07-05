@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0239-sliding-window-maximum) |
 | [0368-largest-divisible-subset](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0368-largest-divisible-subset) |
 | [0945-snakes-and-ladders](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0945-snakes-and-ladders) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -211,17 +212,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0424-longest-repeating-character-replacement) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Greedy
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0239-sliding-window-maximum) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3647-zero-array-transformation-iii) |
 ## Matrix
