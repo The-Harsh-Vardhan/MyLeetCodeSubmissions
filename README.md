@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3321-type-of-triangle) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3639-zero-array-transformation-i) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/0945-snakes-and-ladders) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/The-Harsh-Vardhan/MyLeetCodeSubmissions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
